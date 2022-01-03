@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  background-color: #DFDFDF;
 }
 
 a {
@@ -261,7 +262,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #CBCBCB;
 }
 
 .section-title {
